@@ -17,7 +17,7 @@ Como usar
 git clone https://github.com/seu-usuario/amazon-books-scraper.git
 cd amazon-books-scraper
 ```
-2. Execute o script **scraper.py**:
+2. Execute o script **rpa_amazon.py**:
 
 ```
 python scraper.py
