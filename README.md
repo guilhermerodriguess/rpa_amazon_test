@@ -20,7 +20,7 @@ cd amazon-books-scraper
 2. Execute o script **rpa_amazon.py**:
 
 ```
-python rpa_amazon.py.py
+python rpa_amazon.py
 ```
 
 Isso iniciará o script que irá acessar a Amazon, buscar livros relacionados a "automação", coletar informações como título, autor, preço, classificação e número de avaliações dos primeiros 8 resultados, e salvar esses dados em um arquivo CSV chamado livros_sobre_automacao.csv.
